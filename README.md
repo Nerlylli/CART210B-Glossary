@@ -4,7 +4,7 @@ This is the repository for the collaborative glossary of the New Media Theory(ie
 >[!IMPORTANT]
 > ## [Check the glossary here (see suggestedTerms tab)](https://docs.google.com/spreadsheets/d/1s0uGC1HUucblf5npYROwYhTTw_y5mSnri35bT0wLl4w/edit?usp=sharing)
 
-The glossary is constantly improved by the CART210 community throughout the term, with three sprint deadlines.
+The glossary is constantly improved by the CART210 community throughout the years. In this edition for Julianna' class, we contributing a smaller body of glossary of key terms (one term per collaborator) that were covered in class.
 
 
 
@@ -15,10 +15,10 @@ Each student must:
 
 - choose ONE term from the suggested list of new media keywords
 - conduct research to understand each term's relevance in the context of new media. Explore its historical origins, technological significance, and its influence on contemporary digital culture and society.
-- write precise definitions for the chosen terms, addressing the following points in your analysis: why is the term significant in new media? how does it relate to current technologies or media practices? what are paradigmatic examples that illustrate the term or technology? identify the person or group that coined, designed, or popularized the term or technology, if applicable.
+- in 250-400 words, write precise definitions for the chosen terms, addressing the following points: why is the term significant in new media? how does it relate to current technologies or media practices? what are paradigmatic examples that illustrate the term or technology? identify the person or group that coined, designed, or popularized the term or technology, if applicable.
 - use the Chicago Author-Year citation style strictly for all sources. Each term should reference a minimum of three sources, from which at least two must be academic sources (e.g., books, journal articles, or conference papers).
 Include a properly formatted bibliographic entry at the end of your entry. Follow the instructions on how to create references using Markdown.
-- link your definitions to other terms in the glossary using internal references.
+- link your definitions to other terms in the glossary using internal references, if applicable.
 - provide external references, such as hyperlinks to credible sources or relevant examples, in HTTP/HTTPS format
 
 ## Adding new terms
